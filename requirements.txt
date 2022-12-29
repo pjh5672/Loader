@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+opencv-python==4.5.5.64
+opencv-python-headless==4.6.0.66
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
